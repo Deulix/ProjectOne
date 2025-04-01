@@ -1,0 +1,3 @@
+String 1: 'тест' - 3 count(s)
+String 2: 'строка' - 2 count(s)
+String 3: 'три' - 5 count(s)
